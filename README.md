@@ -1,2 +1,2 @@
 # ccs_votingsystem
-College Of Computer Studies election voting system. This is a project for our subject IT elective: Event Driven Programming
+College Of Computer Studies election voting system. This is a thesis project for our subject: System Analysis and Design
